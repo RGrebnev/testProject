@@ -5,6 +5,6 @@ public class Example {
         System.out.println("OK");
         System.out.println("OK");
         System.out.println("OK");
-        System.out.println("OK");
+        System.out.println("notOK");
     }
 }
